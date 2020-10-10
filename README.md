@@ -2,9 +2,11 @@
 
 ## Software dependencies:
 
-FastAPI
-Pydantic
-Uvicorn or hypercorn
+->FastAPI
+
+->Pydantic
+
+->Uvicorn or hypercorn
 
 Run file with command :
 
