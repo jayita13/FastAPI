@@ -1,5 +1,7 @@
 # FastAPI
 
+I've done an entity extraction code from spacy library's pretrained model - 'en_core_web_sm'
+
 ## Software dependencies:
 
 ->FastAPI
