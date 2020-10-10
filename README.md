@@ -8,6 +8,8 @@
 
 ->Uvicorn or hypercorn
 
+->spacy
+
 ### Run file with command :
 
 uvicorn fastapp:app --reload
