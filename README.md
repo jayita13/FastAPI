@@ -16,11 +16,10 @@ I've implemented entity extraction code from spacy library's pretrained model - 
 
 ->spacy
 
-<img src ='https://github.com/jayita13/FastAPI/blob/main/Screenshot%20(316).png'>
-
 ### Run file with command :
 
 uvicorn fastapp:app --reload
 
 Redirect to 127.0.0.1:8000/docs or 127.0.0.1:8000/redoc
 
+<img src ='https://github.com/jayita13/FastAPI/blob/main/Screenshot%20(316).png'>
